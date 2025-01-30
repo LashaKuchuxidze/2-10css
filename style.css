@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  main {
+    padding: 64px 0 368px;
+  }
+  h2 {
+    display: inline-block;
+    width: 92%;
+  }
+  span {
+    display: inline-block;
+  }
+  
+  #Frameworks {
+    border: 1px solid #f9dbaf;
+    background-color: #fef6ee;
+    color: #b93815;
+  }
+  #Leadership {
+    border: 1px solid #e9d7fe;
+    background-color: #f9f5ff;
+    color: #6941c6;
+  }
+  #Managment {
+    border: 1px solid #d5d9eb;
+    background: #f8f9fc;
+    color: #363f72;
+  }
+  #Software {
+    border: 1px solid #abefc6;
+    background: #ecfdf3;
+    color: #067647;
+  }
+  #SaaS {
+    border: 1px solid #fcceee;
+    background: #fdf2fa;
+    color: #c11574;
+  }
+  #Presentation {
+    border: 1px solid #fcceee;
+    background-color: #fdf2fa;
+    color: #c11574;
+  }
+  
+  .everything_wrapper {
+    padding: 96px;
+    background-color: #e2f7ff;
+    max-width: fit-content;
+    margin: auto;
+  }
+  .content_wrapper {
+    padding: 0 66px 96px;
+  }
+  .content {
+    padding: 0 32px;
+  }
+  .publish_data {
+    color: #6941c6;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+  }
+  .description_p {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .second_content_elements {
+    max-width: 384px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 48px;
+  }
+  .second_content {
+    max-width: 1216px;
+  }
+  .special_one {
+    margin-left: 0;
+  }
+  .img_wrapper {
+    display: inline-block;
+    width: 7%;
+    text-align: right;
+  }
+  .first_image {
+    max-width: 1216px;
+    width: 100%;
+  }
+  .sec_images {
+    max-width: 364px;
+    width: 100%;
+  }
+  .design {
+    border: 1px solid #e9d7fe;
+    background-color: #f9f5ff;
+    color: #6941c6;
+  }
+  .padding {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+  .research {
+    border: 1px solid #c7d7fe;
+    background-color: #eef4ff;
+    color: #3538cd;
+  }
+  .tools {
+    border: 1px solid #fcceee;
+    background-color: #fdf2fa;
+    color: #c11574;
+  }
+  .product {
+    border: 1px solid #b9e6fe;
+    background-color: #f0f9ff;
+    color: #026aa2;
+  }
+  .arrow_wrapper {
+    margin: 8px 0;
+  }
+  .article_wrapper {
+    margin: 20px 0 24px;
+  }
+  .article_heading {
+    color: #181d27;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+  }
+  .align {
+    vertical-align: bottom;
+  }
+  .align_top {
+    vertical-align: top;
+  }
+  
